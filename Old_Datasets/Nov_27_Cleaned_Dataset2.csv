@@ -1,0 +1,101 @@
+track_id,track_name,album_name,album_id,popular,danceability,energy,key,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration
+2YpeDb67231RjR0MgVLzsG,Old Town Road - Remix,7 EP,4IRiXE5NROxknUSAUSjMoO,True,0.878,0.619,6,-5.56,0.102,0.0533,0.0,0.113,0.639,136.041,2.62
+2Fxmhks0bxGSBdJ92vM42m,bad guy,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",0S0KGZnfBGSIssfF54WSJh,True,0.701,0.425,7,-10.965,0.375,0.328,0.13,0.1,0.562,135.128,3.23
+6v3KW9xbzN5yKLt9YKDYA2,Señorita,Shawn Mendes (Deluxe),0xzScN8P3hQAz3BT3YYX5w,True,0.759,0.548,9,-6.049,0.029,0.0392,0.0,0.0828,0.749,116.967,3.18
+6ocbgoVGwYJhOv1GgI9NsF,7 rings,"thank u, next",2fYhqwDWXjbpjaIJPEfKFw,True,0.778,0.317,1,-10.732,0.334,0.592,0.0,0.0881,0.327,140.048,2.98
+0RiRZpuVRbi7oqRdSMwhQY,Sunflower - Spider-Man: Into the Spider-Verse,Hollywood's Bleeding,4g1ZRSobMefqF6nelkgibi,True,0.755,0.522,2,-4.368,0.0575,0.533,0.0,0.0685,0.925,89.96,2.63
+1tNJrcVe6gwLEiZCtprs1u,3 Nights,"Don't Forget About Me, Demos",1DNx0H5ZX1ax3yyRwtgT4S,True,0.815,0.518,7,-6.594,0.0897,0.223,0.0,0.104,0.877,151.891,2.96
+5p7ujcrUXASCNwRaWNHR1C,Without Me,Without Me,0zzrCTzvL4ZmR42xF46Afm,True,0.752,0.488,6,-7.05,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,3.36
+0Oqc0kKFsQ6MhFOLBNZIGX,Doin' Time,Norman Fucking Rockwell!,5XpEKORZ4y6OrCZSKsi46A,True,0.641,0.559,7,-11.132,0.0355,0.404,0.00402,0.0937,0.523,144.982,3.37
+2VxeLyX666F8uXCJ0dZF8B,Shallow,A Star Is Born Soundtrack,4sLtOBOzn4s3GDUv3c5oJD,True,0.572,0.385,7,-6.362,0.0308,0.371,0.0,0.231,0.323,95.799,3.6
+5hVghJ4KaYES3BFUATCYn0,EARFQUAKE,IGOR,5zi7WsKlIiUXv09tbGLKsE,True,0.554,0.498,9,-8.866,0.0685,0.23,5.98e-06,0.795,0.413,79.635,3.17
+7qEHsqek33rTcFNT9PFqLf,Someone You Loved,Divinely Uninspired To A Hellish Extent,5658aM19fA3JVwTK6eQX70,True,0.501,0.405,1,-5.679,0.0319,0.751,0.0,0.105,0.446,109.891,3.04
+6WrI0LAC5M1Rw2MnX2ZvEg,Don't Start Now,Don't Start Now,0ix3XtPV1LwmZADsprKxcp,True,0.794,0.793,11,-4.521,0.0842,0.0125,0.0,0.0952,0.677,123.941,3.05
+3HWzoMvoF3TQfYg4UPszDq,Truth Hurts,Cuz I Love You (Super Deluxe),2KJjOBX280F3hZZE1xO33O,True,0.715,0.624,4,-3.046,0.114,0.11,0.0,0.123,0.412,158.087,2.89
+21jGcNKet2qwijlDFuPiPb,Circles,Hollywood's Bleeding,4g1ZRSobMefqF6nelkgibi,True,0.695,0.762,0,-3.497,0.0395,0.192,0.00244,0.0863,0.553,120.042,3.59
+27rdGxbavYJeBphck5MZAF,Nothing Breaks Like a Heart (feat. Miley Cyrus),Nothing Breaks Like a Heart (feat. Miley Cyrus),2hBfao8GWZwHlUGDB8HVQO,True,0.601,0.794,7,-5.844,0.0671,0.00987,1.36e-06,0.388,0.244,114.066,3.62
+2vXKRlJBXyOcvZYTdNeckS,Lost in the Fire (feat. The Weeknd),Hyperion,0JA38Ekhsv43y2lBj5GQkQ,True,0.658,0.671,2,-12.21,0.0363,0.0933,0.000927,0.115,0.166,100.966,3.37
+6oJ6le65B3SEqPwMRNXWjY,Higher Love,Higher Love,4wquJImu8RtyEuDtIAsfcE,True,0.693,0.678,8,-7.159,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,3.8
+6UnCGAEmrbGIOSmGRZQ1M2,Light On,Heard It In A Past Life,5AHWNPo3gllDmixgAoFru4,True,0.657,0.569,2,-6.287,0.0542,0.201,1.38e-05,0.126,0.399,102.054,3.9
+6KgBpzTuTRPebChN0VTyzV,Good as Hell,Cuz I Love You (Super Deluxe),7hBV0wo7cDHZQLYnuOJ312,True,0.682,0.919,0,-3.18,0.0875,0.256,0.0,0.442,0.535,95.982,2.66
+6QQtHdz4PNJWQX4nrAQGC9,Slide Away,SHE IS COMING,45wbw92Z6V8G8iPKFzSEPN,True,0.534,0.538,5,-6.673,0.0327,0.173,2.82e-06,0.248,0.289,148.016,3.89
+5itOtNx0WxtJmi1TQ3RuRd,Giant (with Rag'n'Bone Man),Giant (with Rag'n'Bone Man),4PwXTHenZZx7ebgsnTM65K,True,0.807,0.887,1,-4.311,0.0361,0.016,0.000503,0.0811,0.606,122.015,3.82
+1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,Lover,1NAmidJlEaVgA3MpcPFYGq,True,0.552,0.702,9,-5.707,0.157,0.117,2.06e-05,0.105,0.564,169.994,2.97
+0DiDStADDVh3SvAsoJAFMk,Only Human,Happiness Begins,1Uf67JAtkVWfdydzFFqNF2,True,0.795,0.496,0,-5.883,0.0722,0.108,0.0,0.0645,0.874,94.01,3.05
+6TqXcAFInzjp0bODyvrWEq,Talk (feat. Disclosure),Free Spirit,6KT8x5oqZJl9CcnM66hddo,True,0.9,0.4,0,-8.575,0.127,0.0516,0.0,0.0599,0.346,135.984,3.29
+7tFiyTwD0nx5a1eklYtX2J,Bohemian Rhapsody - Remastered 2011,A Night At The Opera (Deluxe Remastered Version),6X9k3hSsvQck2OfKYdBbXr,True,0.392,0.402,0,-9.961,0.0536,0.288,0.0,0.243,0.228,143.883,5.91
+7qvsl2pYzrsYgPeFBN5jxp,Juicy,Juicy,4gr1eiDfKDgoXT9HX2EdNT,True,0.786,0.658,0,-2.61,0.0661,0.0856,0.0,0.0689,0.458,170.037,3.37
+2tnVG71enUj33Ic2nFN6kZ,Ride It,Ride It,4zOhjJfe0dwqsNdDYk622E,True,0.88,0.751,7,-4.258,0.0874,0.177,6.43e-05,0.106,0.884,117.948,2.63
+2t8yVaLvJ0RenpXUIAC52d,a lot,i am > i was,007DWn799UWvfY1wwZeENR,True,0.837,0.636,1,-7.643,0.086,0.0395,0.00125,0.342,0.274,145.972,4.81
+1dGr1c8CrMLDpV6mPbImSI,Lover,Lover,1NAmidJlEaVgA3MpcPFYGq,True,0.359,0.543,7,-7.582,0.0919,0.492,1.58e-05,0.118,0.453,68.534,3.69
+6Qs4SXO9dwPj5GKvVOv8Ki,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),1V9oE8bVilClrk5naqyyvL,True,0.741,0.52,8,-7.513,0.0656,0.45,1.97e-06,0.222,0.347,102.998,2.85
+2TH65lNHgvLxCKXM3apjxI,Callaita,Callaita,06S3Qjh4QWLtn6c7CVhYh7,True,0.61,0.624,2,-4.773,0.309,0.6,2.12e-06,0.243,0.244,176.169,4.18
+43zdsphuZLzwA9k4DJhU0I,when the party's over,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",0S0KGZnfBGSIssfF54WSJh,True,0.367,0.111,4,-14.084,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,3.27
+1DFD5Fotzgn6yYXkYsKiGs,Piece Of Your Heart,Piece Of Your Heart,0cqRGWD3uc5Lggpducn5nD,True,0.677,0.744,10,-6.806,0.0295,0.0404,0.00016,0.074,0.631,124.08,2.55
+6RRNNciQGZEXnqk8SQ9yv5,You Need To Calm Down,Lover,1NAmidJlEaVgA3MpcPFYGq,True,0.771,0.671,2,-5.617,0.0553,0.00929,0.0,0.0637,0.714,85.026,2.86
+7AODNxFNPnKaz4hURLzw5l,Ladbroke Grove,AJ Tracey,45UWSDr4RrFAwNfqiFelNj,True,0.902,0.839,11,-9.447,0.208,0.0933,0.0,0.102,0.727,133.989,3.18
+0Ryd8975WihbObpp5cPW1t,boyfriend (with Social House),boyfriend,3zVB99XMdbP9HTVNg0GJwV,True,0.4,0.795,10,-3.731,0.461,0.119,0.0,0.159,0.702,190.097,3.1
+22vgEDb5hykfaTwLuskFGD,Sucker,Happiness Begins,1Uf67JAtkVWfdydzFFqNF2,True,0.842,0.734,1,-5.065,0.0588,0.0427,0.0,0.106,0.952,137.958,3.02
+2OpBganfGk2GVdSlRdxzaX,Better,Suncity,4UNwL1B7JoymNUiTFJa52B,True,0.695,0.586,0,-10.315,0.0658,0.102,0.317,0.113,0.112,98.035,3.82
+3z4CGd63tpUn9a6oQSG0CI,Location (feat. Burna Boy),PSYCHODRAMA,4GrFuXwRmEBJec22p58fsD,True,0.812,0.496,9,-5.969,0.297,0.271,0.0,0.0955,0.55,109.979,4.02
+44ZJ4hLD5onikKsVLQaILr,Vossi Bop,Vossi Bop,1feZ7dUgDquoQRddxlI5BH,True,0.682,0.653,8,-6.062,0.339,0.13,0.00116,0.129,0.428,188.115,3.27
+2JvzF1RMd7lE3KmFlsyZD8,MIDDLE CHILD,MIDDLE CHILD,3XzSOIE6zGLliuqsVGLmUc,True,0.837,0.364,8,-11.713,0.276,0.149,0.0,0.271,0.463,123.984,3.56
+4SSnFejRGlZikf02HLewEF,bury a friend,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",0S0KGZnfBGSIssfF54WSJh,True,0.905,0.389,8,-14.505,0.332,0.74,0.162,0.106,0.196,120.046,3.22
+3e9HZxeyfWwjeyPAMmWSSQ,"thank u, next","thank u, next",2fYhqwDWXjbpjaIJPEfKFw,True,0.717,0.653,1,-5.634,0.0658,0.229,0.0,0.101,0.412,106.966,3.46
+5PYQUBXc7NYeI1obMKSJK0,Never Really Over,Never Really Over,3KjXg0MDej2pG9fv6I22lT,True,0.77,0.882,8,-4.792,0.0602,0.194,0.0,0.316,0.385,99.991,3.73
+3gE4eQH3K83Sght0ZLvuBK,MIA,X 100PRE,7CjJb2mikwAWA1V6kewFBF,True,0.816,0.538,6,-6.354,0.0617,0.0142,0.000496,0.099,0.156,97.054,3.51
+7dt6x5M1jzdTEt8oCbisTK,Better Now,beerbongs & bentleys,6trNtQUgC8cgbWcqoMYkOR,True,0.68,0.578,10,-5.804,0.04,0.331,0.0,0.135,0.341,145.038,3.85
+6b2RcmUt1g9N9mQ3CbjX2Y,How Do You Sleep?,How Do You Sleep?,7baaCf70tVcUBL2bbkuXjo,True,0.477,0.682,1,-4.931,0.0925,0.153,0.0,0.0763,0.345,110.567,3.37
+6y1UtRcHQU07aUs3oxZ8Yn,Sorry,Sorry,1PvEp0qeU6o2rm0i2qUC2N,True,0.744,0.79,8,-4.617,0.0562,0.0547,0.000802,0.32,0.847,125.002,3.14
+5WHTFyqSii0lmT9R21abT8,Don't Call Me Up,Ivy To Roses (Mixtape),0syM7OUAhV7S6XmOa4nLUZ,True,0.674,0.881,9,-2.853,0.147,0.296,3.01e-06,0.0793,0.234,98.994,2.97
+2xLMifQCjDGFmkHkpNLD9h,SICKO MODE,ASTROWORLD,41GuZcammIkupMPKH2OJ6I,True,0.834,0.73,8,-3.714,0.222,0.00513,0.0,0.124,0.446,155.008,5.21
+4kV4N9D1iKVxx1KLvtTpjS,"break up with your girlfriend, i'm bored","thank u, next",2fYhqwDWXjbpjaIJPEfKFw,True,0.726,0.554,5,-5.29,0.0917,0.0421,0.0,0.106,0.335,169.999,3.17
+2IRZnDFmlqMuOrYOLnZZyc,Going Bad (feat. Drake),Championships,6UYZEYjpN1DYRW0kqFy9ZE,True,0.889,0.496,4,-6.365,0.0905,0.259,0.0,0.252,0.544,86.003,3.01
+0FZ4Dmg8jJJAPJnvBIzD9z,ZEZE (feat. Travis Scott & Offset),Dying to Live,5n1GSzC1Reao29ScnpLYqp,True,0.861,0.603,8,-5.788,0.176,0.0521,0.0,0.0924,0.504,98.043,3.81
+33CfD8UkDEcSdAP9j4QpUY,All Day And Night,All Day And Night (Jax Jones & Martin Solveig Present Europa),1VQjtx21AAQnQe442bJssW,True,0.585,0.782,1,-4.101,0.0897,0.269,0.0,0.156,0.521,121.908,2.82
+7LpMG3AEaIJgs62HQhAa91,i'm so tired...,~how i'm feeling~,3ZuE680xhR1A4bCFGvL8mi,True,0.548,0.735,11,-7.572,0.236,0.173,0.0,0.195,0.498,101.252,2.71
+7xQAfvXzm3AkraOtGPWIZg,Wow.,Hollywood's Bleeding,4g1ZRSobMefqF6nelkgibi,True,0.829,0.539,11,-7.359,0.208,0.136,1.78e-06,0.103,0.388,99.96,2.49
+2XU0oxnq2qxCpomAAuJY8K,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,0UywfDKYlyiu1b38DRrzYD,True,0.824,0.588,6,-6.4,0.0924,0.692,0.000104,0.149,0.513,98.027,3.49
+5X5YDBavdU5RjYMlxqwlCm,Boasty (feat. Idris Elba),Boasty (feat. Idris Elba),0liwr0yeGsI5pn5GaGwTDJ,True,0.887,0.765,2,-5.207,0.0669,0.00915,0.000872,0.0907,0.456,102.958,2.95
+7DcvwMAiqKJQD1rrdfxSDx,The London (feat. J. Cole & Travis Scott),The London (feat. J. Cole & Travis Scott),6p9Y1K9yu3ojyS8fBJXUnp,True,0.796,0.586,4,-6.946,0.147,0.0247,0.0,0.132,0.179,97.981,3.34
+01tA4XmJ4fGQNwti6b2hPm,The Git Up,Honeysuckle & Lightning Bugs,2oxv6Q0GYUkYqz2dhUKo12,True,0.847,0.678,9,-8.635,0.109,0.0669,0.0,0.274,0.811,97.984,3.34
+0rIAC4PXANcKmitJfoqmVm,Motivation,Motivation,2r6BEK0wzXbL8JHyCkeJkG,True,0.599,0.887,4,-3.967,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,3.23
+3j84U36KvLeXNDPv4t5pI8,Pure Water (with Migos),Perfect Ten,2WrNHOba5u6P9S9xEboaUy,True,0.682,0.559,0,-5.545,0.127,0.174,0.0,0.344,0.137,202.015,3.21
+4Of7rzpRpV1mWRbhp5rAqG,Bruises,Divinely Uninspired To A Hellish Extent,5658aM19fA3JVwTK6eQX70,True,0.736,0.308,4,-7.83,0.0677,0.946,0.0,0.186,0.361,111.202,3.67
+0qc4QlcCxVTGyShurEv1UU,Post Malone (feat. RANI),Magnets EP,41S9bfzXTSGK4HU2mp5qXH,True,0.59,0.642,7,-3.87,0.122,0.0771,0.0,0.105,0.651,107.356,2.91
+5KBARWIxeMGkvUax9VtVC9,My Type,ICY,7mdpibDh6Sec6o6zItcSEH,True,0.899,0.811,2,-6.294,0.258,0.000677,0.0,0.0672,0.587,105.038,2.11
+5N1o6d8zGcSZSeMFkOUQOk,Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign),2Xqs4kJBrZAHN1XVqy9QOK,True,0.872,0.814,0,-4.568,0.155,0.00485,1.96e-06,0.214,0.57,98.985,3.32
+6V7g6qM8wheMivMWrzbPTM,Leave Me Alone,LOVE FOR GUALA,3zMEkZNzS5yJDcnqPhIk10,True,0.792,0.743,7,-2.806,0.0851,0.107,0.0,0.183,0.742,150.024,3.26
+2x0RZdkZcD8QRI53XT4GI5,SOS (feat. Aloe Blacc),TIM,6Ad1E9vl75ZB3Ir87zwXIJ,True,0.802,0.645,5,-6.181,0.0715,0.272,0.0,0.119,0.376,100.001,2.62
+1rqqCSm0Qe4I9rUvWncaom,High Hopes,Pray for the Wicked,6ApYSpXF8GxZAgBTHDzYge,True,0.579,0.904,5,-2.729,0.0618,0.193,0.0,0.064,0.681,82.014,3.18
+1000nHvUdawXuUHgBod4Wv,Panini,Panini,71BrrQxz8mZAneNSDE9Lov,True,0.703,0.594,5,-6.146,0.0752,0.342,0.0,0.123,0.475,153.848,1.91
+03x2rVJRFUrvwlfxoHd9Mo,Just You and I,What a Time To Be Alive,3Qa0qW4ged1J4HGeLXbFsC,True,0.567,0.696,9,-5.416,0.301,0.456,0.0,0.113,0.544,92.061,2.92
+6ZRuF2n1CQxyxxAAWsKJOy,Nights Like This (feat. Ty Dolla $ign),While We Wait,73ZvpuYhKDr2FW4vlPsTpW,True,0.61,0.725,8,-5.131,0.15,0.367,0.0,0.154,0.291,146.163,3.36
+0u2P5u6lvoDfwTYjAADbn4,lovely (with Khalid),lovely (with Khalid),2sBB17RXTamvj7Ncps15AK,True,0.351,0.296,4,-10.109,0.0333,0.934,0.0,0.095,0.12,115.284,3.34
+0PG9fbaaHFHfre2gUVo7AN,Please Me,Please Me,5a4sJJ3qjn6hqRsvm0Veso,True,0.747,0.57,1,-6.711,0.081,0.0642,0.0,0.0832,0.65,133.992,3.35
+4t9a07PAghtQMRAIP9FQ7Z,Soltera (Remix),Épico,46xbsFOp9g1WqTidQEs7YT,True,0.795,0.783,5,-4.271,0.0432,0.361,0.0,0.437,0.799,92.01,4.43
+3cWI6Hj9LQ0MfMuhw9uSMc,Lost Without You,Freya Ridings,3dcenoRctm8OAnqoCrQrLd,True,0.386,0.136,6,-9.267,0.0458,0.932,0.0,0.0653,0.0976,67.016,3.76
+3Ol2xnObFdKV9pmRD2t9x8,Look Back at It,Hoodie SZN,3r5hf3Cj3EMh1C2saQ8jyt,True,0.791,0.587,3,-5.075,0.0413,0.407,0.0,0.148,0.536,96.057,2.99
+5ry2OE6R2zPQFDO85XkgRb,Money In The Grave (Drake ft. Rick Ross),The Best In The World Pack,00HZxSA1sOS9T3nA950sg4,True,0.831,0.502,10,-4.045,0.046,0.101,0.0,0.122,0.101,100.541,3.42
+132ALUzVLmqYB4UsBj5qD6,Adan y Eva,Homerun,0qJkFmVwwNXP6fvSemDZqn,True,0.767,0.709,1,-4.47,0.336,0.323,0.0,0.0745,0.72,171.993,4.28
+2GGMabyHXnJmjY6CXhhB2e,Money,Money,2drqVzCt52KiDxKgl0Rq0P,True,0.95,0.59,8,-6.508,0.29,0.00534,0.0,0.11,0.219,130.003,3.06
+1lOe9qE0vR9zwWQAOk6CoO,Ransom,We Love You Tecca,1I6FpscJIfwf4T56VxGVsB,True,0.745,0.642,7,-6.257,0.287,0.0204,0.0,0.0658,0.226,179.974,2.19
+6UjZ2Yx2g2a52XxiA8ONxZ,Outnumbered,Outnumbered,4BQVnx1yJrDa1tcky9D9N6,True,0.614,0.684,0,-5.79,0.157,0.247,0.0,0.0976,0.258,156.85,4.1
+7DnAm9FOTWE3cUvso43HhI,Sweet but Psycho,Heaven & Hell,26c7MmQ4w8EAvVLb4jilaM,True,0.72,0.706,1,-4.719,0.0473,0.0684,0.0,0.166,0.62,133.002,3.12
+0t3ZvGKlmYmVsDzBJAXK8C,Goodbyes (feat. Young Thug),Hollywood's Bleeding,4g1ZRSobMefqF6nelkgibi,True,0.548,0.653,5,-3.875,0.081,0.456,0.0,0.103,0.163,150.068,2.91
+56JyMaElW79S7TDWh1Zw1m,On A Roll,On A Roll,6eV8O8De1mibErM1XM1tEc,True,0.736,0.81,5,-6.354,0.0906,0.077,0.0,0.0523,0.387,125.011,2.57
+1yAPglN5AGf7UoLK062ZYq,Wish You Well,Wish You Well,1yZZdubJ2rovC4QIBP8riQ,True,0.669,0.895,5,-3.787,0.0575,0.128,0.0,0.297,0.576,124.975,3.43
+4l0Mvzj72xxOpRrp6h8nHi,Lose You To Love Me,Rare,3YPFaTR7WMi1Hd4NVKdCJx,True,0.488,0.343,4,-8.985,0.0436,0.556,0.0,0.21,0.0978,102.819,3.44
+2bjUEg4jBtKBlPdNrTAppI,Easier,CALM,46K4raQPIGem3N031upNj9,True,0.562,0.46,5,-4.173,0.259,0.476,0.0,0.107,0.623,176.055,2.63
+6LsAAHotRLMOHfCsSfYCsz,If I Can't Have You,If I Can't Have You,1J2BrRxtQjVUa7X9Ne99xD,True,0.692,0.809,2,-4.198,0.0602,0.524,0.0,0.147,0.864,123.911,3.18
+5w9c2J52mkdntKOmRLeM2m,Con Calma,Con Calma,1otwHKoQ5KPaiekpYk4tWh,True,0.737,0.86,8,-2.652,0.0593,0.11,1.94e-06,0.0574,0.656,93.989,3.22
+5iwz1NiezX7WWjnCgY5TH4,Calma - Remix,Calma (Remix),1tFnP9PwIMeMIuj92mfswZ,True,0.826,0.773,11,-4.218,0.0524,0.323,0.0,0.143,0.761,126.899,3.97
+2ksOAxtIxY8yElEWw8RhgK,China,China,1PTTAq0OxggVgqP5WTYWDh,True,0.786,0.808,7,-3.702,0.0882,0.0846,0.000289,0.0822,0.609,105.027,5.03
+2gwkD6igEhQbDQegRCcdoB,Suge,Baby On Baby,0O1PJ0t69iTO5yWrIeIga0,True,0.876,0.662,2,-6.482,0.426,0.0608,0.0,0.127,0.844,75.445,2.72
+0hVXuCcriWRGvwMV1r5Yn9,I Don't Care (with Justin Bieber),No.6 Collaborations Project,3oIFxDIo2fwuk4lwCmFZCx,True,0.798,0.676,6,-5.041,0.0442,0.0902,0.0,0.0894,0.843,101.956,3.67
+543bCW2ruMPmxUBWirQ3MR,Cross Me (feat. Chance the Rapper & PnB Rock),Cross Me (feat. Chance the Rapper & PnB Rock),5MKInakULmoBNApeB2ZB3A,True,0.746,0.787,4,-6.373,0.12,0.214,0.0,0.0669,0.607,95.005,3.44
+5icOoE6VgqFKohjWWNp0Ac,Here With Me,Here With Me,6NHS3hV16MZyfcp0nSHdrd,True,0.791,0.565,5,-3.933,0.0439,0.0623,0.0,0.156,0.181,99.961,2.61
+6iaSML1PIYq936g62BDtBq,Robbery,Death Race For Love (Bonus Track Version),1btu0SV2DOI5HoFsvUd78F,True,0.623,0.692,2,-5.122,0.0504,0.328,0.0,0.153,0.566,79.899,4.0
+0KoiMHhqKLoL4xM54rcWYY,"Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",Carte Blanche,2MFS6WG6jnPAgvJpV3PehR,True,0.842,0.801,8,-4.167,0.228,0.157,4.82e-06,0.0642,0.617,95.881,3.54
+073ILU1C3APNRGF66VhtyA,Liar,Romance,3Vsbl0diFGw8HNSjG8ue9m,True,0.74,0.498,11,-6.684,0.0456,0.0169,0.00282,0.319,0.652,98.016,3.45
+70eFcWOvlMObDhURTqT4Fv,Beautiful People (feat. Khalid),No.6 Collaborations Project,3oIFxDIo2fwuk4lwCmFZCx,True,0.64,0.647,5,-8.114,0.186,0.124,0.0,0.0801,0.546,92.979,3.3

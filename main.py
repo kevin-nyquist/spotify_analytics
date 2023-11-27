@@ -6,12 +6,18 @@ import json
 from spotipy.oauth2 import SpotifyOAuth
 
 sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id="1e247c491dfe432680d7203916b4b20a",
-                                               client_secret="1e14d1db06d54f0cb6122aac6902b273",
+                                               client_secret="1bf1538eb2a9461c96b31f45de4293e6",
                                                redirect_uri="http://localhost:1234",
                                                scope="user-library-read"))
 
 def get_playlist() :
-    top_200_id = "7dPdaFrplLZD90rvfG8ZuB"
+    """
+    top 200 all time = 7dPdaFrplLZD90rvfG8ZuB
+    top 50 2020 = 37i9dQZF1DX7Jl5KP2eZaS
+    top 50 2022 = 37i9dQZF1DX18jTM2l2fJY
+    top 100 2019 = 37i9dQZF1DWVRSukIED0e9
+    """
+    top_200_id = "37i9dQZF1DWVRSukIED0e9"
     playlist = sp.playlist(top_200_id, fields="tracks.items(track(name,id,album(name,id)))", market="ES", additional_types=('track', ))
     items = playlist['tracks']['items']
     df = pd.DataFrame(items)

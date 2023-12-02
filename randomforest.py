@@ -6,6 +6,7 @@ from sklearn.metrics import classification_report,confusion_matrix,ConfusionMatr
 import matplotlib.pyplot as plt
 import seaborn as sns; sns.set()
 
+
 df = pd.read_csv('Nov27_Final_Dataset.csv')
 #print(df.head())
 #print(df.info())
@@ -58,3 +59,27 @@ plt.ylabel('Predicted Popular Song')
 plt.grid(False)
 
 plt.savefig("RF_confusion.jpg") # Save plot as image in current directory
+
+
+from sklearn.metrics import roc_curve, auc
+
+# Predict probabilities on the test set
+y_prob = forest.predict_proba(X_test)[:, 1]
+
+# Set characteristics
+fpr, tpr, thresholds = roc_curve(y_test, y_prob)
+roc_auc = auc(fpr, tpr)
+
+# Interpolation
+interp_fpr = np.linspace(0, 1, 100)
+interp_tpr = np.interp(interp_fpr, fpr, tpr)
+
+# Plot ROC curve
+plt.figure(figsize=(8, 8))
+plt.plot(interp_fpr, interp_tpr, color='darkorange', lw=2, label=f'AUC = {roc_auc:.2f}')
+plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
+plt.xlabel('False Positive Rate')
+plt.ylabel('True Positive Rate')
+plt.title('SVM ROC Curve')
+plt.legend(loc='lower right')
+plt.show()
